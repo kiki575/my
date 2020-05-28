@@ -1,6 +1,6 @@
 <template>
   <div>
-  <div>hh{{msg}}</div>
+  <div>hh00000{{msg}}</div>
   <button @click="kp"></button>
   </div>
 </template>
